@@ -16,7 +16,7 @@ export default function About() {
           <h2 className="text-4xl font-bold text-slate-900 mb-8">About</h2>
           <div className="prose prose-lg max-w-none text-slate-700 leading-relaxed space-y-4">
             <p>
-              I'm a Full-Stack AI Engineer with over 7 years of experience building and shipping
+              I'm a Full-Stack AI Engineer with over 8 years of experience building and shipping
               production AI-powered applications. My work spans LLM-based systems, retrieval-augmented
               generation (RAG) pipelines, and intelligent automation workflows.
             </p>

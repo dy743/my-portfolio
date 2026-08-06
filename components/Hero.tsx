@@ -98,7 +98,7 @@ export default function Hero() {
             className="flex flex-wrap items-center justify-center gap-6 pt-4"
           >
             <a
-              href="https://github.com/dy743"
+              href="https://github.com/turbodahero"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 bg-slate-900 text-white rounded-lg hover:bg-slate-800 transition-colors"

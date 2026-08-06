@@ -19,7 +19,7 @@ export default function Footer() {
           </div>
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/dy743"
+              href="https://github.com/turbodahero"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full hover:bg-slate-800 transition-colors"

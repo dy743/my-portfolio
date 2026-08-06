@@ -37,7 +37,7 @@ export default function Footer() {
               <Linkedin size={20} />
             </a>
             <a
-              href="mailto:bizboss919@gmail.com"
+              href="mailto:turbodahero777@outlook.com"
               className="p-2 rounded-full hover:bg-slate-800 transition-colors"
               aria-label="Email"
             >

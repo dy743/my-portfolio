@@ -31,7 +31,7 @@ const socialLinks = [
   {
     icon: Github,
     label: 'GitHub',
-    href: 'https://github.com/dy743',
+    href: 'https://github.com/turbodahero',
     color: 'hover:bg-slate-900 hover:text-white',
   },
   {
